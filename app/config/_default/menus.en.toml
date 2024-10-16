@@ -10,25 +10,22 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Посты"
-  pageRef = "posts"
-  weight = 10
 
 [[main]]
   name = "Обо мне"
-  pageRef = "about-me"
+  pageRef = "aboutme"
   weight = 20
+
 
 [[main]]
   name = "Мои проекты"
-  pageRef = "my-projects"
+  pageRef = "myprojects"
   weight = 30
 
-[[main]]
-  name = "Книги"
-  pageRef = "books"
-  weight = 40
+#[[main]]
+#  name = "Книги"
+#  pageRef = "books"
+#  weight = 40
 
 #[[main]]
 #  name = "Parent"
@@ -50,12 +47,6 @@
 #  name = "Обо мне"
 #  pageRef = "tags/about-me"
 #  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
 
 #[[main]]
 #  name = "Categories"
