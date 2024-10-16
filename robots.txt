@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mechcarrot.github.io/blog/sitemap.xml
