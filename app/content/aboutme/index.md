@@ -24,12 +24,12 @@ draft: false
     <li><b>Version control:</b> GitHub, GitLab</li>
     <li><b>Task Managment:</b> Trello</li>
     <li><b>Infrastracture tools:</b> Docker, CI/CD </li>
-    <li><b>DataBases:</b> Postgres, MySQL, MongoDB, Redis </li>
+    <li><b>DataBases:</b> Postgres, MongoDB, Redis </li>
 </ul>
 <h4>Практики</h4>
 <ul>
     <li>Agile/Scrum</li>
-    <li>DevOps</li>
+    <li>DevOps (Лишь только базовые знания)</li>
 </ul>
 <h4>Теоретические знания</h4>
 <ul>
@@ -38,7 +38,7 @@ draft: false
     <li>Базовая статистика, теория вероятностей</li>
     <li>Классические алгоритмы ML</li>
     <li>System design</li>
-    <li>Сети и распределенные системы</li>
+    <li>Сети и базовое понимание распределенных систем</li>
 </ul>
 <h3>Языки</h3>
 <ul>
