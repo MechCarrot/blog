@@ -29,7 +29,7 @@ draft: false
 <h4>Практики</h4>
 <ul>
     <li>Agile/Scrum</li>
-    <li>DevOps (Лишь только базовые знания)</li>
+    <li>DevOps</li>
 </ul>
 <h4>Теоретические знания</h4>
 <ul>
@@ -71,7 +71,6 @@ draft: false
 
 <h2>Контакты</h2>
 <ul>
-    <li> <b>Telegram</b> - MechMath2024 </li>
-    <li><b>Github</b> - MechCarrot, qwertyziv</li>
+    <li> <b>Telegram</b> - @MechMath2024 </li>
     <li><b>Email</b> - denisov21052004@gmail.com </li>
 </ul>
