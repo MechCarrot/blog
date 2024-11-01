@@ -30,6 +30,7 @@ draft: false
 <ul>
     <li>Agile/Scrum</li>
     <li>DevOps</li>
+    <li>gRPC, REST API</li>
 </ul>
 <h4>Теоретические знания</h4>
 <ul>
